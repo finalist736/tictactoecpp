@@ -43,7 +43,7 @@ char checkWinner(char pole[3][3])
 }
 
 int main() {
-	// - пусто, X - крестик, O - нолик
+	// - empty, X - krestik, O - nolik
 	char pole[3][3] = { '-', '-', '-', '-', '-', '-', '-', '-', '-' };
 	int number = 0;
 	int drawCounter = 1;
